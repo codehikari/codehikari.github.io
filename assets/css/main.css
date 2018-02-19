@@ -1241,7 +1241,7 @@ footer {
   margin: 2em 0 0 0; }
 
 strong, b {
-  font-weight: 300;
+  font-weight: 700;
   color: #666; }
 
 em, i {
@@ -1300,7 +1300,7 @@ blockquote {
   padding: 1em 0 1em 2em;
   font-style: italic; }
 
-p, ul, ol, dl, table {
+ul, ol, dl, table {
   margin-bottom: 2em; }
 
 dl dt {
